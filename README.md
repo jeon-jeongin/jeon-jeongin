@@ -19,7 +19,7 @@ I am Jeongin Jeon
 
 ## Skills
 
-***Language**
+**Language**
 
 ![img](https://img.shields.io/badge/JavaScript-fff?style=flat&logo=JavaScript&logoColor=FFCE00)
 ![img](https://img.shields.io/badge/TypeScript-fff?style=flat&logo=TypeScript&logoColor=3178C6)
