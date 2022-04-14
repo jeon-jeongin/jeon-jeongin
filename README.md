@@ -76,7 +76,7 @@ I am Jeongin Jeon
 
 <br>
 
-### **토이 프로젝**<br>
+### **토이 프로젝트**<br>
 프론트엔드 개발 |  2022.04 
 
 * News-Kids Front-end 개발 참여 
