@@ -49,7 +49,6 @@ I am Jeongin Jeon
 
 ![img](https://img.shields.io/badge/Amazon%20AWS-fff?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
 ![img](https://img.shields.io/badge/Amazon%20S3-fff?style=flat&logo=Amazon%20S3&logoColor=569A31)
-![img](https://img.shields.io/badge/Naver%20NCP-fff?style=flat&logo=Naver&logoColor=03C75A)
 
 **Collaboration Tool**
 
@@ -75,3 +74,9 @@ I am Jeongin Jeon
 * 알프스 여행사 Front-end 개발 참여 
 * Camping Share Front-end 개발 참여
 
+<br>
+
+### **토이 프로젝**<br>
+프론트엔드 개발 |  2022.04 
+
+* News-Kids Front-end 개발 참여 
