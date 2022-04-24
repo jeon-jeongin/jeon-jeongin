@@ -22,7 +22,6 @@ I am Jeongin Jeon
 **Language**
 
 ![img](https://img.shields.io/badge/JavaScript-fff?style=flat&logo=JavaScript&logoColor=FFCE00)
-![img](https://img.shields.io/badge/TypeScript-fff?style=flat&logo=TypeScript&logoColor=3178C6)
 ![img](https://img.shields.io/badge/Java-fff?style=flat&logo=Java&logoColor=007396)
 
 **Front-end**
